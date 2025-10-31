@@ -28,15 +28,15 @@
   <h2 align="center"> 🛠️ Linguagens e Tecnologias: </h2>
   <br>
   
-  <img align="center" alt="Cris-Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cris-HTML" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="node-js" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Cris-VS" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="VS" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Intellij" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
 
 </div><br>
 
@@ -45,7 +45,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/zpookiepie">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=zPookiePie&show_icons=true&title_color=fdcde6&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPookiePie&layout=compact&title_color=fdcde6&langs_count=8&theme=dracula"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPookiePie&layout=compact&title_color=fdcde6&langs_count=9&theme=dracula"/>
   </a>
 </div>
     

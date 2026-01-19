@@ -55,10 +55,3 @@
   <a href="https://www.linkedin.com/in/agata-rafaela28/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
   <a href = "agatadevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40"></a>
 </div>
-
-
-
-![computer-gif](https://github.com/user-attachments/assets/2ad08515-0005-4c82-a898-25192b707e0f)
-
-
-

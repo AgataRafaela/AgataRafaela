@@ -17,8 +17,8 @@
 <h2 align="center"> 👩‍💻 Um pouco sobre mim</h2>
 
 <p align="center">
-    🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas</br>
-    ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente</br>
+    🎓 Recém formada em Análise e Desenvolvimento de Sistemas</br>
+    ⚡ Desenvolvedora Front-end, com interesse em Full-Stack futuramente</br>
     🎯 Focada em HTML, CSS/SCSS, React e dando meus primeiros passos em back-end com Java</br>
     🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada!</br>
 <p>
@@ -43,7 +43,7 @@
 
 <h2 align="center"> 📈 Estatísticas do GitHub</h2>
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/zpookiepie">
+  <a href="https://github.com/agatarafaela">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=zPookiePie&show_icons=true&title_color=fdcde6&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPookiePie&layout=compact&title_color=fdcde6&langs_count=9&theme=dracula"/>
   </a>
